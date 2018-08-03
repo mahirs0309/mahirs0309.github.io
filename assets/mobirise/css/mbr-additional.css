@@ -1522,70 +1522,63 @@ body {
 .cid-qZ2EdfAxqB LABEL {
   color: #ffffff;
 }
-.cid-qZ2lTdfxZL {
-  padding-top: 45px;
-  padding-bottom: 90px;
-  background-color: #232323;
-}
-.cid-qZ2lTdfxZL h3 {
-  text-align: center;
-}
-.cid-qZ2lTdfxZL .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-qZ2lTdfxZL .mbr-content-text {
-  color: #767676;
-}
-.cid-qZ2lTdfxZL .panel-item {
-  background: #ffffff;
-}
-.cid-qZ2lTdfxZL .card {
-  word-wrap: break-word;
-}
-.cid-qZ2lTdfxZL .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-qZ2lTdfxZL .mbr-section-title {
-  color: #ffffff;
-}
-.cid-qZ2lTdfxZL H4 {
-  color: #c1c1c1;
-}
-.cid-qZ2lTdfxZL SPAN {
-  color: #979797;
-}
-.cid-qZCl4HF028 {
-  padding-top: 45px;
+.cid-qZCqyJT6e1 {
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #232323;
 }
-.cid-qZCl4HF028 h3 {
-  text-align: center;
-}
-.cid-qZCl4HF028 .mbr-section-subtitle {
+.cid-qZCqyJT6e1 .mbr-section-subtitle {
   color: #cccccc;
-  font-weight: 300;
 }
-.cid-qZCl4HF028 .mbr-content-text {
-  color: #767676;
-}
-.cid-qZCl4HF028 .panel-item {
-  background: #ffffff;
-}
-.cid-qZCl4HF028 .card {
-  word-wrap: break-word;
-}
-.cid-qZCl4HF028 .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-qZCl4HF028 .mbr-section-title {
+.cid-qZCqyJT6e1 H2 {
   color: #ffffff;
 }
-.cid-qZCl4HF028 H3 {
-  text-align: center;
+.cid-qZCq2zs02v {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-qZCq2zs02v h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qZCq2zs02v p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qZCq2zs02v .card-img {
+  text-align: left;
+  padding-right: 30px;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  width: auto;
+}
+.cid-qZCq2zs02v .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-qZCq2zs02v .card-title {
+  margin-bottom: 0;
+}
+.cid-qZCq2zs02v .mbr-crt-title {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-qZCq2zs02v .media {
+  margin: initial;
+  align-items: center;
+}
+@media (max-width: 300px) {
+  .cid-qZCq2zs02v .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qZCq2zs02v .card-title,
+.cid-qZCq2zs02v .card-img {
+  color: #ffffff;
+}
+.cid-qZCq2zs02v P {
+  color: #cccccc;
 }
 .cid-qZ2aDeQbgG .navbar {
   padding: .5rem 0;
